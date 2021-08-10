@@ -1,0 +1,22 @@
+{
+  "name": "wakeup-game-api-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earapkoule/WakeUp-Game-API-Scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/earapkoule/WakeUp-Game-API-Scripts/issues"
+  },
+  "homepage": "https://github.com/earapkoule/WakeUp-Game-API-Scripts#readme",
+  "devDependencies": {
+    "axios": "^0.21.1"
+  }
+}
